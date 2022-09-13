@@ -14,9 +14,9 @@ export let primitiveNodes:NodeConstructor[] = [
     {  name: "Lençóis" }
 ];
 export const primitiveEdges:EdgeConstructor[] = [
-    {link: ["Salvador","BR-324"],weight:79 },
+    {link: ["Salvador","BR-324"], weight:79 },
     {link: ["BR-324","Feira de Santana"], weight:28 },
-    {link: ["BR-324","Sapeaçu"],weight:64 },
+    {link: ["BR-324","Sapeaçu"], weight:64 },
     {link: ["Sapeaçu","Ipueira"],weight:63 },
     {link: ["Feira de Santana","Ipirá"],weight:81 },
     {link: ["Feira de Santana","Ipueira"],weight:65 },
